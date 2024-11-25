@@ -1,0 +1,32 @@
+[1.692s] Invoking command in '/home/smahapat/ros2_ws/src/rn1': PYTHONPATH=/home/smahapat/ros2_ws/build/rn1/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/smahapat/ros2_ws/install/rn1/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../../build/rn1 build --build-base /home/smahapat/ros2_ws/build/rn1/build install --record /home/smahapat/ros2_ws/build/rn1/install.log --single-version-externally-managed install_data
+[2.137s] running egg_info
+[2.138s] creating ../../build/rn1/rn1.egg-info
+[2.168s] writing ../../build/rn1/rn1.egg-info/PKG-INFO
+[2.168s] writing dependency_links to ../../build/rn1/rn1.egg-info/dependency_links.txt
+[2.168s] writing requirements to ../../build/rn1/rn1.egg-info/requires.txt
+[2.169s] writing top-level names to ../../build/rn1/rn1.egg-info/top_level.txt
+[2.169s] writing manifest file '../../build/rn1/rn1.egg-info/SOURCES.txt'
+[2.227s] reading manifest file '../../build/rn1/rn1.egg-info/SOURCES.txt'
+[2.228s] writing manifest file '../../build/rn1/rn1.egg-info/SOURCES.txt'
+[2.229s] running build
+[2.229s] running build_py
+[2.230s] creating /home/smahapat/ros2_ws/build/rn1/build
+[2.230s] creating /home/smahapat/ros2_ws/build/rn1/build/lib
+[2.231s] creating /home/smahapat/ros2_ws/build/rn1/build/lib/rn1
+[2.232s] copying rn1/__init__.py -> /home/smahapat/ros2_ws/build/rn1/build/lib/rn1
+[2.233s] running install
+[2.245s] running install_lib
+[2.278s] creating /home/smahapat/ros2_ws/install/rn1/lib/python3.10/site-packages/rn1
+[2.279s] copying /home/smahapat/ros2_ws/build/rn1/build/lib/rn1/__init__.py -> /home/smahapat/ros2_ws/install/rn1/lib/python3.10/site-packages/rn1
+[2.280s] byte-compiling /home/smahapat/ros2_ws/install/rn1/lib/python3.10/site-packages/rn1/__init__.py to __init__.cpython-310.pyc
+[2.281s] running install_data
+[2.281s] creating /home/smahapat/ros2_ws/install/rn1/share/ament_index
+[2.281s] creating /home/smahapat/ros2_ws/install/rn1/share/ament_index/resource_index
+[2.282s] creating /home/smahapat/ros2_ws/install/rn1/share/ament_index/resource_index/packages
+[2.283s] copying resource/rn1 -> /home/smahapat/ros2_ws/install/rn1/share/ament_index/resource_index/packages
+[2.283s] copying package.xml -> /home/smahapat/ros2_ws/install/rn1/share/rn1
+[2.284s] running install_egg_info
+[2.323s] Copying ../../build/rn1/rn1.egg-info to /home/smahapat/ros2_ws/install/rn1/lib/python3.10/site-packages/rn1-0.0.0-py3.10.egg-info
+[2.325s] running install_scripts
+[2.595s] writing list of installed files to '/home/smahapat/ros2_ws/build/rn1/install.log'
+[2.642s] Invoked command in '/home/smahapat/ros2_ws/src/rn1' returned '0': PYTHONPATH=/home/smahapat/ros2_ws/build/rn1/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/smahapat/ros2_ws/install/rn1/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../../build/rn1 build --build-base /home/smahapat/ros2_ws/build/rn1/build install --record /home/smahapat/ros2_ws/build/rn1/install.log --single-version-externally-managed install_data

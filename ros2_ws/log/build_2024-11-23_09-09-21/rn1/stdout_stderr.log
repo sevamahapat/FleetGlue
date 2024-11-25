@@ -1,0 +1,30 @@
+running egg_info
+creating ../../build/rn1/rn1.egg-info
+writing ../../build/rn1/rn1.egg-info/PKG-INFO
+writing dependency_links to ../../build/rn1/rn1.egg-info/dependency_links.txt
+writing requirements to ../../build/rn1/rn1.egg-info/requires.txt
+writing top-level names to ../../build/rn1/rn1.egg-info/top_level.txt
+writing manifest file '../../build/rn1/rn1.egg-info/SOURCES.txt'
+reading manifest file '../../build/rn1/rn1.egg-info/SOURCES.txt'
+writing manifest file '../../build/rn1/rn1.egg-info/SOURCES.txt'
+running build
+running build_py
+creating /home/smahapat/ros2_ws/build/rn1/build
+creating /home/smahapat/ros2_ws/build/rn1/build/lib
+creating /home/smahapat/ros2_ws/build/rn1/build/lib/rn1
+copying rn1/__init__.py -> /home/smahapat/ros2_ws/build/rn1/build/lib/rn1
+running install
+running install_lib
+creating /home/smahapat/ros2_ws/install/rn1/lib/python3.10/site-packages/rn1
+copying /home/smahapat/ros2_ws/build/rn1/build/lib/rn1/__init__.py -> /home/smahapat/ros2_ws/install/rn1/lib/python3.10/site-packages/rn1
+byte-compiling /home/smahapat/ros2_ws/install/rn1/lib/python3.10/site-packages/rn1/__init__.py to __init__.cpython-310.pyc
+running install_data
+creating /home/smahapat/ros2_ws/install/rn1/share/ament_index
+creating /home/smahapat/ros2_ws/install/rn1/share/ament_index/resource_index
+creating /home/smahapat/ros2_ws/install/rn1/share/ament_index/resource_index/packages
+copying resource/rn1 -> /home/smahapat/ros2_ws/install/rn1/share/ament_index/resource_index/packages
+copying package.xml -> /home/smahapat/ros2_ws/install/rn1/share/rn1
+running install_egg_info
+Copying ../../build/rn1/rn1.egg-info to /home/smahapat/ros2_ws/install/rn1/lib/python3.10/site-packages/rn1-0.0.0-py3.10.egg-info
+running install_scripts
+writing list of installed files to '/home/smahapat/ros2_ws/build/rn1/install.log'
