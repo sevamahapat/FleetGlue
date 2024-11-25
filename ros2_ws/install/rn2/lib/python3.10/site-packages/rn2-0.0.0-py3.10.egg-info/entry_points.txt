@@ -1,2 +1,0 @@
-[console_scripts]
-rn2 = rn2.rn2:main
